@@ -1,0 +1,8 @@
+Las APIs pueden ayudar a que las comunidades compartan información, reportes o alertas de 
+manera organizada porque actúan como un puente estandarizado entre diferentes aplicaciones y 
+plataformas:  permiten que los datos se transmitan en formatos comunes, garantizan
+que los reportes se integren en tiempo real desde múltiples fuentes, y facilitan que las alertas se
+distribuyan automáticamente a los canales adecuados (por ejemplo, apps móviles, correos o 
+paneles web). De esta forma, las comunidades logran un flujo de información más seguro, claro y
+accesible, evitando duplicaciones y asegurando que todos los miembros reciban la misma
+actualización al mismo tiempo.
