@@ -1,0 +1,5 @@
+La ruta Post recibe información enviada por el cliente en el cuerpo de la petición,
+devuelve una respuesta en formato JSON confirmando que el reporte fue recibido junto con el mismo mensaje
+Esta ruta sirve para que los usuarios envíen datos al servidor y reciban una confirmacion inmediata.
+Podria servir en una aplicacion comunitaria para que los miembros de una comunidad envíen reportes de problemas, sugerencias o incidencias.
+ayudando a organizar la comunicación entre usuarios y responsables de la comunidad.

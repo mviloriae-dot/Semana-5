@@ -1,0 +1,12 @@
+Ruta principal
+URL: http://localhost:3000
+Muestra la pagina inicial del servidor. 
+Generalmente aparece un mensaje de bienvenida o contenido basico definido en la ruta raiz (/).
+Ruta saludo
+URL: http://localhost:3000/saludo
+Devuelve un saludo predefinido, por ejemplo “¡Hola!” o “Bienvenido al servidor”. 
+Esta ruta esta diseñada para probar respuestas simples.
+Ruta con mensaje
+URL: http://localhost:3000/mensaje/juan
+Muestra un mensaje personalizado usando el parámetro de la URL. 
+En este caso, el servidor responde con algo como “Hola Juan” o “Mensaje para Juan”.
